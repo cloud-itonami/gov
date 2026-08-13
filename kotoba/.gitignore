@@ -1,0 +1,6 @@
+# docs/operator-quickstart.md の手順どおり `npm install` するとここに 311 MB 落ちる。
+node_modules/
+
+# lockfile は追跡しない — package.json が git 依存 2 本を commit SHA で pin 済み
+# （`…sdk.git#12314a0c…` / `…sdk-mock.git#c857ff9b…`）。
+package-lock.json
