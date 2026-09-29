@@ -71,7 +71,7 @@ repo 自体の名前も 3 通りある: west/GitHub は `cloud-itonami/gov`、
 何をすればよいか決まらない**ので、そのまま着手しないこと:
 
 - `SUBSTRATE-PORT-PENDING.md` §3 — `@etzhayyim/kotodama-gv7ps2m1` → `@etzhayyim/kotodama-gv7ps2m1`
-- `CLAUDE.md` WIT 節 / 同 §「Deliberately preserved」 — `etzhayyim:gov/public-service@1.0.0` → 同左
+- `AGENTS.md` WIT 節 / 同 §「Deliberately preserved」 — `etzhayyim:gov/public-service@1.0.0` → 同左
 - `appview/gov-mcp-component/src/app.ts` 冒頭 — `@etzhayyim/kotodama-host-sdk` → 同左
 
 同様に、既存ドキュメントが指す `00-contracts/lexicons/…`・`wit/gov/package.wit`・
